@@ -1,0 +1,12 @@
+body
+{
+    background-color: rgb(0, 0, 0);
+}
+div
+{
+    margin:auto;
+    border: solid 1px darkcyan;
+    width: fit-content;
+    height: fit-content;
+    padding: 0px;
+}
